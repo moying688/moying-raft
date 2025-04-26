@@ -1,0 +1,5 @@
+server1: go run cmd/server/main.go 1 8001
+server2: go run cmd/server/main.go 2 8002
+server3: go run cmd/server/main.go 3 8003
+server4: go run cmd/server/main.go 4 8004
+server5: go run cmd/server/main.go 5 8005
